@@ -205,11 +205,6 @@ a {
   height: 40px;
   overflow-x: auto;
 }
-
-.slider__wrapper::-webkit-scrollbar {
-  display: none;
-}
-
 .slider__item {
   display: flex;
   padding: 8px 9px;
